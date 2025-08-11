@@ -1,4 +1,4 @@
-# Tute_Dude_Python_Assignments
+                                                   Tute_Dude_Python_Assignments
 Here I have uploaded two files of first assignment.
 1)Assignment-1a.py
 2)Assignment-1b.py
@@ -12,7 +12,7 @@ Here I have uploaded two files of first assignment.
                  print function.
 
 
-                 2)Assignment-1b.py: Hear i have used two string variable as and b then i put
+                 2)Assignment-1b.py: Hear i have used two string variable as a and b then i put
                  the input function to let the user insert their first and last name. Then i
                  used a third variabl as c to add the two strings and i also added a space between
                  them so that there will always remain a space betwwn the strings. Then i Displayed
